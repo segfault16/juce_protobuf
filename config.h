@@ -1,0 +1,6 @@
+
+
+#define HAVE_PTHREAD 1
+
+#define PROTO_MODULE_LITE 1
+#define PROTO_MODULE_FULL 1
